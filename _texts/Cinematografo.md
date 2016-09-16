@@ -1,9 +1,9 @@
 ---
 layout: narrative
 title: Cinematografo
-author: Carranque de Ríos
+author: Andres Carranque de Ríos
 publication-date: 1936
-source: "De Ríos, Carranque. Cinematógrafo. Barcelona: Espasa-Calpe, 1936."
+source: "Carranque de Rios, Andres. Cinematógrafo. Barcelona: Espasa-Calpe, 1936."
 ---
 
 DEL MISMO AUTOR
